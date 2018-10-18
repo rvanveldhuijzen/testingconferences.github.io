@@ -212,7 +212,7 @@
   location: Valencia, Spain
   dates: "February 16, 2019"
   twitter: maaretp
-  status: Applications being accepted until end Octoer 31, 2018
+  status: Applications being accepted until end October 31, 2018
 
 - name: Testing in Context Conference Australia (TiCCA) 19
   location: Melbourne, Australia
@@ -296,6 +296,13 @@
   url: https://www.romaniatesting.ro
   twitter: romaniatesting
   status: CFP is Open until November 25, 2018
+
+- name: Test Automation Day 2019
+  location: Utrecht, Netherlands
+  dates: "June 19-20, 2019"
+  url: https://www.testautomationday.com/
+  twitter: automation_day
+  status: Registration is Open
 
 - name: Agile Testing Days USA 2019
   location: Chicago, IL, USA
